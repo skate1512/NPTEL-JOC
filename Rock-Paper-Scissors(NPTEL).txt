@@ -1,8 +1,8 @@
 # Rock-Paper-Scissors Game
 """ This is a code for this game, player 1 selects a no. from which they select a digit this digit corresponds
-to the value 0, 1 and 2.The same process is repeated with player 2, with the help of dictionaries player 1 and 2
-are shown the keys(0,1,2) which have different values for them. Their choice results in a draw, victory or defeat.
-An option to play again is provided """
+to the value 0, 1 and 2.The same process is repeated with player 2. With the help of dictionaries, player 1 and 2
+are shown the keys(0,1,2) which have different values assigned to them. Their choice results in a draw, victory or defeat.
+An option to play again is provided. """
 
 
 def rps(n1,n2,x,y):
